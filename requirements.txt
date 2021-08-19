@@ -3,3 +3,5 @@ This is a chat application.
 - type option
 - colors
 - vibrant
+- Dark Mode
+- Video Calls
